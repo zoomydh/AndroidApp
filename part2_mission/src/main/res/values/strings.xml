@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">part2_mission</string>
+    <string name="introduce">Send and receive SMS from Messenger</string>
+    <string name="explain">Manage all of your conversations in one place and use stickers and chat heads.
+     SMS conversations are displayed separately in Messenger and are only available via a mobile phone.
+         Standard text message charges will be charged.</string>
+    <string name="button">CHECK</string>
+    <string name="setting">SETTING</string>
+</resources>
